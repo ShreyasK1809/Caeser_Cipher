@@ -1,9 +1,3 @@
-Great! Based on your uploaded Python script, here’s a nicely formatted `README.md` file for your GitHub repository.  
-I’ll include images as well (you can upload your screenshots or I can create simple badges / placeholders that you can replace later).
-
----
-
-```markdown
 # Caesar Cipher 🔐
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -16,17 +10,7 @@ This script allows you to encrypt and decrypt messages by shifting characters in
 <br/>
 
 ## 📸 Preview
-
-### Menu Interface
-<img src="https://via.placeholder.com/600x300?text=Menu+Interface+Preview" alt="Menu Interface">
-
-### Encryption Example
-<img src="https://via.placeholder.com/600x300?text=Encryption+Example" alt="Encryption Example">
-
-### Decryption Example
-<img src="https://via.placeholder.com/600x300?text=Decryption+Example" alt="Decryption Example">
-
-*(Tip: Replace these placeholder images with real screenshots of your terminal output!)*
+![Caeser-Cipher_GUI](https://github.com/user-attachments/assets/e4a9cb62-4688-43ab-8d08-8a3d424b6918)
 
 <br/>
 
